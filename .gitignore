@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+loadshedding/target/
+loadshedding/dbt_packages/
+loadshedding/logs/
